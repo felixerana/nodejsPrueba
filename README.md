@@ -1,2 +1,2 @@
 # nodejsPrueba
-Primer proyecto en NodeJS
+Primer proyecto en ReactJS
